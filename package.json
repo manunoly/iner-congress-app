@@ -1,11 +1,11 @@
 {
-  "name": "ionic-conference-app",
+  "name": "iner-conference-app",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
+  "description": "Iner Congress App",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic-conference-app.git"
+    "url": "https://github.com/manunoly/iner-congress-app.git"
   },
   "scripts": {
     "build": "ionic-app-scripts build",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "1.3.7",
-    "@ionic/cli-plugin-ionic-angular": "1.2.0",
+    "@ionic/cli-plugin-ionic-angular": "1.3.0",
     "typescript": "2.3.3"
   },
   "config": {}
